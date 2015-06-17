@@ -1,4 +1,4 @@
-#STRC51 simulator
+#STRC51 keyboard simulator
 
 Installation:
 Clone this repository and run npm install in terminal (assuming you have npm installed)
