@@ -1,0 +1,4 @@
+./build.sh
+./dest/*
+./node_modules/*
+
